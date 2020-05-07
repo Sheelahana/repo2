@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D69E-B34E
+
+ Directory of C:\Users\ELCOT\Desktop\Github
+
+07-05-2020  16:31    <DIR>          .
+07-05-2020  16:31    <DIR>          ..
+07-05-2020  16:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,077,588,480 bytes free
